@@ -58,10 +58,12 @@ CampoMensaje.addEventListener("blur",ValidarMensaje);
 const Nextcamp = document.querySelector("[name=boton]");
 const Entermensaje = (e) =>{
 
-    if(e.keyCode==13)
-    e.preventDefault();
-    Nextcamp.focus();
+    if(e.keyCode==13){
+        e.preventDefault();
+        Nextcamp.focus();
 
+    }
+   
 
 }
 
