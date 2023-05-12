@@ -1,0 +1,68 @@
+.diversos__items0{
+    display: flex;
+    align-items: center;
+    
+}
+
+.diversos__titulo{
+    margin-left: 80px;
+    margin-top: 64px;
+    margin-bottom: 20px;
+    font-weight: 700;
+    font-size: 32px;
+}
+
+.diversos__titulo__vertodo{
+    margin-top: 64px;
+    position: relative;
+    left: 1070px;
+    font-weight: 700;
+    font-size: 16px;
+    color: #2A7AE4;
+    
+}
+.diversos__titulo__flecha{
+    position: relative;
+    left: 1070px;
+    top:24px;
+}
+
+.diversos__items{
+
+    display: flex;
+    margin-left: 80px;
+    gap:50px;
+}
+.diversos__galeria__imagen{
+    width: 176px;
+    height: 174px;
+
+}
+
+.diversos__galeria__producto{
+
+    margin-top: 10px;
+    margin-bottom: 0px;
+    color: #464646;
+    font-weight: 500;
+    font-size: 14px;
+
+}
+
+.diversos__galeria__precio{
+    margin-top: 10px;
+    margin-bottom: 0px;
+    font-weight: 700;
+    font-size: 16px;
+
+
+}
+
+.diversos__galeria__ver{
+    margin-top: 10px;
+    margin-bottom: 0px;
+    font-weight: 700;
+    font-size: 16px;
+    color: #2A7AE4;
+
+}

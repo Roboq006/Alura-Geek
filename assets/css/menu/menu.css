@@ -1,0 +1,33 @@
+.menu{
+    background-color:#FFFFFF;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 115px;
+}
+
+.menu__imagen{
+    position: relative;
+    top:10px;  
+}
+
+.menu__imagen1{
+    position: relative;
+    top:5px;
+}
+
+.menu__imagen2{
+    position: relative;
+    right:365px;
+    top:6px
+}
+
+.menu__barra{
+    width: 393px;
+    height: 40px;
+    background: #F5F5F5;
+    border-radius: 20px;
+    margin-right: 353px;
+    position: relative;
+    left:32px;
+}
